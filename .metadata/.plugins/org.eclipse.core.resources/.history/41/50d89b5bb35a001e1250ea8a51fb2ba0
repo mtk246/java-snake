@@ -1,0 +1,10 @@
+package Snake;
+
+public class Sound_system {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
